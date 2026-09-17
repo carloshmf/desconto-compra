@@ -18,6 +18,7 @@ else:
             desconto = valor - valor_descontado                                      
 print(f"Você recebeu {porcentagem}% de desconto, o valor a ser pago será de R$ {desconto:.2f}")      # saída de dados
 print(f"O desconto foi de R$ {valor_descontado:.2f}")
-print(f"Obrigado por nos visitar, até a próxima!")            
+print(f"Obrigado por nos visitar, até a próxima!") 
+x           
 
         
